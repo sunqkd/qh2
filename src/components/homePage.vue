@@ -9,7 +9,7 @@
 			<div class="unit">
 				<span>指导单位：前海管理局</span>
 				<span>主办单位：前海科创投控股有限公司</span>
-				<span>承办单位：前海深港青年梦工场、第一路演</span>
+				<span>承办单位：前海深港青年梦工场&ensp;第一路演</span>
 				<img src="./img/LOGO@2x.png" alt="" style="height:20px;width:auto;margin-top:2px">
 			</div>
 			<div class="icon-video transform"></div>
@@ -21,9 +21,9 @@
 			<div class="activityBg" style="margin-bottom:50px;">
 				粤港澳大湾区建设是习近平总书记亲自谋划、亲自部署、亲自推动的国家战略，是新时代推动形成全面开放新格局的新尝试，是推动“一国两制”事业发展的新实践，也是前海新时期开发开放重大战略机遇。前海立足国家战略优势，汇聚全球创新能量，建设“一带一路”国际路演中心，为全球科技创新企业提供资本及产业资源支持，搭建路演展示舞台，推动粤港澳大湾区建设。
 			</div>
-			<div class="headlineright" style="width:89.3%;">· 新一代信息技术专场路演介绍 ·</div>
+			<div class="headlineright" style="width:89.3%;">· 大数据及云计算专场路演介绍 ·</div>
 			<div class="activityBg" style="margin-bottom:50px;clear:both;margin-bottom:55px;">
-				新一代信息技术是国家“十二五”规划中明确重点扶持的战略新兴产业，也是粤港澳大湾区重点支持的支柱产业、优势产业，本次路演重点为粤港澳大湾区及国际5G、物联网、芯片、云计算等领域科技创新项目，由合作科研院所、高校、投资机构、产业资本联合推选，嘉宾评委团提前甄选，面向全球知名投资机构举行“一带一路”国际路演中心首场路演，并支持同步在线视频路演。
+				云计算、大数据带来信息技术服务模式和应用方式的重大变革，已逐步成为经济社会发展的新引擎，正在改变这个世界，更是未来巨头生态标配。大数据、云计算的迅速发展,也为投资带来了更加广阔的领域与可能，在这一持续热门的领域,“一带一路”前海国际路演中心借势出击,举办大数据、云计算专场路演，并支持同步在线视频路演。
 			</div>
 			<div class="headlineleft" style="width:73.6%;">
 				· 活动流程 ·
@@ -35,130 +35,89 @@
 						<span>
 							<i></i>
 						</span>
-						<span>9:00-9:30</span>
+						<span>14:00-14:30</span>
 						<span>签到</span>
 					</li>
 					<li>
 						<span>
 							<i></i>
 						</span>
-						<span>9:30-9:35</span>
+						<span>14:30-14:35</span>
 						<span>主持人开场，介绍贵宾</span>
 					</li>
 					<li>
 						<span>
 							<i></i>
 						</span>
-						<span>9:35-9:40</span>
-						<span>领导致辞</span>
+						<span>14:35-14:55</span>
+						<span>前海产业政策解读</span>
 					</li>
 					<li>
 						<span>
 							<i></i>
 						</span>
-						<span>9:40-9:45</span>
-						<span>启动仪式</span>
+						<span>14:55-15:05</span>
+						<span>嘉宾评委聘书颁发仪式</span>
 					</li>
 					<li>
 						<span>
 							<i></i>
 						</span>
-						<span>9:45-9:50</span>
-						<span>评委嘉宾聘书颁发仪式</span>
+						<span>15:05-17:35</span>
+						<span>项目路演</span>
 					</li>
 					<li>
 						<span>
 							<i></i>
 						</span>
-						<span>9:50-11:30</span>
-						<span>项目路演及颁奖</span>
-					</li>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>11:30-11:50</span>
+						<span>17:35-18:00</span>
 						<span>自由交流</span>
 					</li>
 				</ul>
 			</div>
 			<!-- 路演项目 -->
 			<div class="headlineright" style="width:73.6%;margin-top:10px;margin-bottom:19px">
-				· 路演项目 ·
+				· 拟邀路演项目 ·
 			</div>
 			<!-- 路演项目列表 -->
 			<div class="roadProject">
 				<ul>
-					<li>项目1：骨传导智能眼镜</li>
-					<li>全球首款日常佩戴设计的智能眼镜，可适配任意度数的镜片</li>
-					<li>美国众筹平台Kickstarter上45天内众筹220万美元，目前预售量累计超过3000万。</li>
-					<li>跨国核心团队，创始人毕业于常春藤大学，获福布斯U30,MIT REVIEW U35等荣誉。</li>
+					<li>项目1：信息安全加密解决方案提供商</li>
+					<li>公司是一家信息安全加密解决方案提供商，专注于信息安全加密、移动通讯技术、全景三维可视化展示系统、数据容灾及业务连续性，旗下产品包括电力配电安全网关、多业务运维保障平台和电力3D数据可视化系统，应用于电力、能源、水利、金融等领域。</li>
 				</ul>
 			</div>
 			<div class="roadProject">
 				<ul>
-					<li>项目2 ：全球领先的AI感知芯片设计商</li>
-					<li>公司创始人与核心研发团队深耕行业近20年。</li>
-					<li>是业内唯一能量产LCD屏下指纹芯片公司。</li>
-					<li>与腾讯、京东等顶级互联网公司在3D人脸识别领域深度合作。</li>
-					<li>专注于人机交互领域的稀缺设计龙头。</li>
-					<li>顶尖战略、资本和行业资源助力。</li>
+					<li>项目2 ：非结构化数据分析服务提供商</li>
+					<li>公司是一家非结构化数据分析服务提供商，专注于数据采集沉淀、分布式处理和存储、数据挖掘、自然语言处理、数据可视化等。通过对数据进行融合和理解，帮助企业全面、精准、快速的了解市场和用户，发现机遇及规避风险，充分发挥数据分析的商业价值。</li>
 				</ul>
 			</div>
 			<div class="roadProject">
 				<ul>
-					<li>项目3 ： 大数据精准营销服务商</li>
-					<li>公司是领先的第三方数据服务供应商，在亚太地区有多个重点项目在发展中, 优秀的表现使公司成为不少亚太国家第三方数据的首选。</li>
-					<li>业绩发展迅速，2018年营销额约为800万，并录得30% 净利润；2019年更有400%增长，预计营销约为3000万，并录得35%净利润。</li>
-					<li>专注于出海服务, 可以为中国大陆企业提供更多海外营商的机会。</li>
-					<li>核心团队学历水平高. 有多年行业经验，在技术、销售、服务, 行政表现出色。</li>
+					<li>项目3 ： 工业互联网产品提供商</li>
+					<li>公司是一个工业互联网产品提供商，旗下主要提供检测工具产品、网络安全产品、监测预警产品、终端安全产品，如工业隔离网闸、工业监测审计系统、工业安全评估系统等，应用于电力、石化、市政、教育等行业，同时提供安全咨询、评估、培训方面的服务。</li>
 				</ul>
 			</div>
 			<div class="roadProject">
 				<ul>
-					<li>项目4：楼宇智慧运营管理平台</li>
-					<li>掌握云计算、物联网、移动互联网和大数据等领域的多项核心技术，积累深厚。</li>
-					<li>自主开发楼宇资产软件、大厦精准资产管理服务平台和楼宇智能设备。 </li>
-					<li>自主研发智慧园区管理系统，运用互联网技术和互联网思维赋能传统地产行业。</li>
-					<li>蓝海市场，竞争对手少，增量市场空间巨大。 </li>
-					<li>核心团队近10年行业经验，技术、服务能力强。</li>
+					<li>项目4：物联网智能硬件开发云服务平台</li>
+					<li>公司是一个物联网智能硬件开发云服务平台，致力于为企业或开发者提供设备管理、网络连接管理、应用开发、数据挖掘、智能分析、金融计费与第三方系统互联等功能。</li>
 				</ul>
 			</div>
 			<div class="roadProject">
 				<ul>
-					<li>项目5：会展活动SaaS</li>
-					<li>公司产品为承办活动节省90%的时间、节省60%的费用。</li>
-					<li>行业空间巨大，EventBride、Cvent等标杆企业发展迅速。</li>
-					<li>创始人在移动互联网方面经验丰富，创业项目获得多项奖项。</li>
+					<li>项目5：大数据服务提供商</li>
+					<li>公司是一家大数据服务提供商，致力于为用户提供数据管理与数据分析服务，并通过大数据整合和数据治理服务面向用户进行数据众筹和数据运营服务，助力用户实现数据增值。</li>
 				</ul>
 			</div>
 			<div class="roadProject">
 				<ul>
-					<li>项目6：计算机视觉技术解决方案提供商</li>
-					<li>技术团队由复旦、哈工大、帝国理工等顶尖科研及开发人员组成。</li>
-					<li>自主研发算法核心技术，并通过海量数据训练优化。</li>
-					<li>拥有自主专利技术22项、软件著作权16项。</li>
-					<li>获得CEVA、瑞芯微等多家行业领导者的支持。</li>
-					<li>顶尖战略、资本和行业资源助力。</li>
+					<li>项目6：容器云平台和企业级解决方案提供商</li>
+					<li>公司是一家容器云平台和企业级解决方案提供商，提供包括持续集成、持续交付、发布管理、镜像托管等在内的基于容器技术的全套开发运维生命周期服务，同时与国内外IaaS云计算平台对接，实现云端应用从开发、测试、部署到运维的完整容器化工具链。</li>
 				</ul>
 			</div>
-			<div class="roadProject">
-				<ul>
-					<li>项目7：固态存储控制芯片研发商</li>
-					<li>存量市场+增量市场空间巨大，国产替代需求迫切。 </li>
-					<li>得一微是大陆唯一全产品线稳定出货的存储控制芯片厂商。</li>
-					<li>掌握多项核心IP，技术积累深厚，具备成为平台级公司的实力。</li>
-					<li>核心团队近20年行业经验，技术、销售、服务能力强大。</li>
-					<li>顶尖战略、资本和行业资源助力。</li>
-				</ul>
-			</div>
-			<div class="roadProject">
-				<ul>
-					<li>项目8：无人机灯光秀提供商</li>
-					<li>覆盖无人航空器与无线网络通信、视频投影技术的交叉领域，技术壁垒高。 </li>
-					<li>产品既可服务大型庆典和晚会，更适合中小型商家的营销活动，市场空间大。</li>
-					<li>团队成员来自香港理工、哈工大等高校，曾任职华为、北电网路等知名企业，团队优秀。</li>
-				</ul>
+			<div class="continue">
+				路演项目 持续邀约中...
 			</div>
 			<!-- 嘉宾评委团 -->
 			<div class="headlineleft" style="width:75%;margin-top:52px;display:flex;align-items:center">
@@ -188,10 +147,10 @@
 				<div class="judgetext">嘉宾评委团 持续邀约中...</div> -->
 			</div>
 			<!-- 启动仪式 -->
-			<div class="headlineright" style="width:73.6%;margin-top:46px;">· 启动仪式特约机构 ·</div>
+			<!-- <div class="headlineright" style="width:73.6%;margin-top:46px;">· 启动仪式特约机构 ·</div>
 			<div class="orgPeo">
 				<img src="./img/org.png" alt="">
-			</div>
+			</div> -->
 			<div class="headlineleft" style="width:73.6%;margin-top:46px">· 系列路演日程 ·</div>
 			<div class="series" style="clear:both">
 				<div class="tableheader">
@@ -309,7 +268,7 @@
 			<div class="adressContain">
 				<div class="adress">
 					<span>
-						活动地址：<a href="http://apis.map.qq.com/uri/v1/marker?marker=coord:22.518,113.90;title:前海深港青年梦工场2号楼;addr: 广东省深圳市南山区前海深港合作区前海深港青年梦工场">前海深港青年梦工场2-101</a>
+						活动地址：<a href="http://apis.map.qq.com/uri/v1/marker?marker=coord:22.518,113.90;title:前海深港青年梦工场2号楼;addr: 广东省深圳市南山区前海深港合作区前海深港青年梦工场">前海深港青年梦工场</a>
 					</span>
 					<span>
 						公交路线：最近的地铁站是1号线鲤鱼门（出站后打车8分钟）、11号线南山站（车程15分钟）
@@ -732,7 +691,8 @@ export default {
 						font-size:13px;
 						color:rgba(98,178,232,1);
 						line-height:22px;
-						list-style: disc;
+						// list-style: disc;
+						list-style:none;
 						&:nth-child(1){
 							font-size:15px;
 							font-weight: bold;
@@ -743,6 +703,13 @@ export default {
 						}
 					} 
 				}
+			}
+			.continue{
+				width:100%;
+				font-size:14px;
+				color:rgba(98,178,232,1);
+				text-align: center;
+				margin-top:24px;
 			}
 			.judge{
 				width:100%;
