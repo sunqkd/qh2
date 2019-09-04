@@ -536,7 +536,7 @@ export default {
 		getTableList(){ // 获取报名列表
 			this.axios.get(this.domain +'/vc/qhRoadShow/getSignUpList',{
 				params:{
-					"roadshowId":"3",
+					"roadShowId":3,
 				}
 			}).then((res)=>{
 				if(res.data.status == 1){
