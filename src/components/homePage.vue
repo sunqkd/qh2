@@ -422,7 +422,7 @@ export default {
 				"position": this.form.position, // 职位
 				"phoneNo": this.form.phone, // 手机号
 				"wxNum": this.form.wechat, // 微信
-				"roadshowId":"1",
+				"roadshowId":"3",
 				"type": "3",
 				"language": "0"
 			}).then((res)=>{
@@ -536,7 +536,7 @@ export default {
 		getTableList(){ // 获取报名列表
 			this.axios.get(this.domain +'/vc/qhRoadShow/getSignUpList',{
 				params:{
-					"roadshowId":"1",
+					"roadshowId":"3",
 				}
 			}).then((res)=>{
 				if(res.data.status == 1){
