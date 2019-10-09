@@ -806,7 +806,8 @@ export default {
 							justify-content: center;
 						}
 						&:nth-child(2){
-							padding-left:10px;
+							padding-left:5px;
+							padding-right:5px;
 							box-sizing: border-box;
 							width:calc(100% - 140px);
 							margin-right: 1px;
@@ -834,7 +835,8 @@ export default {
 							justify-content: center;
 						}
 						&:nth-child(2){
-							padding-left:10px;
+							padding-left:5px;
+							padding-right:5px;
 							box-sizing: border-box;
 							width:calc(100% - 140px);
 							margin-right: 1px;
