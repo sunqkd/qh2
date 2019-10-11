@@ -50,7 +50,7 @@
 							<i></i>
 						</span>
 						<span>14:35-14:55</span>
-						<span>前海产业政策解读</span>
+						<span>前海领导讲话</span>
 					</li>
 					<li>
 						<span>
