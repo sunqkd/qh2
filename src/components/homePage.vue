@@ -673,7 +673,7 @@ export default {
 		newSwiper(){
 			var mySwiper = new Swiper ('.lb1', {
 				loop: true, // 循环轮播
-			 	autoplay:true,//等同于以下设置
+			 	autoplay:true,
 				slidesPerView: 1.5,
 				spaceBetween: 2,
 				centeredSlides: true,
@@ -718,10 +718,10 @@ export default {
 							display:flex;
 							align-items: center;
 							justify-content: center;
+							border:1px solid rgba(65,179,243,1);
 							img{
 								width:100%;
 								height:auto;
-								border:1px solid rgba(65,179,243,1);
 								display:inline-block;
 							}
 						}
