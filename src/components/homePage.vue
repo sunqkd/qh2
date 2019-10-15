@@ -303,6 +303,102 @@
 					</span>
 				</div>
 			</div>
+			<!-- 往期花絮 -->
+			<div class="pasttrivia">
+				<div class="title">
+					· 往期花絮 ·
+				</div>
+				<div class="lb">
+					<div class="swiper-container lb1">
+						<div class="swiper-wrapper">
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/first/01-01.jpg" alt="">
+								</div>
+								<p>新一代信息技术专场·领导讲话</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/first/01-02.jpg" alt="">
+								</div>
+								<p>新一代信息技术专场·嘉宾团</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/first/01-03.jpg" alt="">
+								</div>
+								<p>新一代信息技术专场·企业路演</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/first/01-04.jpg" alt="">
+								</div>
+								<p>新一代信息技术专场·企业路演</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/first/01-05.jpg" alt="">
+								</div>
+								<p>新一代信息技术专场·路演现场</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/first/01-06.jpg" alt="">
+								</div>
+								<p>新一代信息技术专场·嘉宾互动</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/first/01-07.jpg" alt="">
+								</div>
+								<p>新一代信息技术专场·路演现场</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/second/02-01.jpg" alt="">
+								</div>
+								<p>巴葡专场·嘉宾团</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/second/02-02.jpg" alt="">
+								</div>
+								<p>巴葡专场·路演企业</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/second/02-03.jpg" alt="">
+								</div>
+								<p>巴葡专场·路演企业</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/second/02-04.jpg" alt="">
+								</div>
+								<p>巴葡专场·嘉宾互动</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/second/02-05.jpg" alt="">
+								</div>
+								<p>巴葡专场·路演现场</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/second/02-06.jpg" alt="">
+								</div>
+								<p>巴葡专场·嘉宾合影</p>
+							</div>
+							<div class="swiper-slide">
+								<div class="imglbContain">
+									<img src="./img/second/02-07.jpg" alt="">
+								</div>
+								<p>巴葡专场·嘉宾聘书</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 		<!-- 单选 -->
 		<!-- <singleradio v-if="radioSingle" v-model="radioSingle" @radioMethods="radioMethods"></singleradio> -->
@@ -343,6 +439,7 @@
 </template>
 
 <script>
+import Swiper from 'swiper';
 import { Toast } from 'mint-ui';
 import people from './people.js';
 import active from './active.js';
@@ -393,6 +490,7 @@ export default {
 			that.autoPlayMusic();
             that.audioAutoPlay();
 		});
+		this.newSwiper();
 	},
 	methods:{
 		change(){ // 中英文切换
@@ -571,6 +669,15 @@ export default {
 					this.tableList = res.data.data?res.data.data:[];
 				}
 			})
+		},
+		newSwiper(){
+			var mySwiper = new Swiper ('.lb1', {
+				loop: true, // 循环轮播
+			 	autoplay:true,//等同于以下设置
+				slidesPerView: 1.5,
+				spaceBetween: 2,
+				centeredSlides: true,
+			}) 
 		}
 	},
 
@@ -586,6 +693,54 @@ export default {
 }
 </script>
 <style lang="scss">
+
+	.pasttrivia{
+		width:100%;
+		margin-bottom:40px;
+		.title{
+			color:#17EAD9;
+			font-size:18px;
+			display:flex;
+			align-items: center;
+			justify-content: center;
+			margin-bottom:32px;
+		}
+		.lb{
+			width:100%;
+			height:200px;
+			.swiper-container{
+				height:100%;
+				.swiper-wrapper{
+					.swiper-slide{
+						.imglbContain{
+							width:100%;
+							height:166px;
+							display:flex;
+							align-items: center;
+							justify-content: center;
+							img{
+								width:100%;
+								height:auto;
+								border:1px solid rgba(65,179,243,1);
+								display:inline-block;
+							}
+						}
+						p{
+							margin-top:5px;
+							width:100%;
+							display:flex;
+							align-items: center;
+							justify-content: center;
+							font-size: 12px;
+							color:rgba(255,255,255,0.6);
+						}
+					}
+					.swiper-slide:not(.swiper-slide-active) {transform: scale(0.8);}
+				}
+			}
+			
+		}
+	}
 	.homePage{
 		width:100%;
 		height:auto;
