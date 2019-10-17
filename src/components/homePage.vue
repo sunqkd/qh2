@@ -154,25 +154,6 @@
 			</div>
 			<div class="judge">
 				<img src="./img/person.png" alt="">
-				<!-- <ul>
-					<li class="judgeItem" v-for="(item,index) in people" :key="index">
-						<div class="judgeImg">
-							<div class="imgContain">
-								<img :src="item.logo" alt="" />
-							</div>
-						</div>
-						<div class="judgeName">
-							{{item.name}}
-						</div>
-						<div class="judgeCompany">
-							{{item.company}}
-						</div>
-						<div class="judgePosition">
-							{{item.position}}
-						</div>
-					</li>
-				</ul>
-				<div class="judgetext">嘉宾评委团 持续邀约中...</div> -->
 			</div>
 			<!-- 启动仪式 -->
 			<!-- <div class="headlineright" style="width:73.6%;margin-top:46px;">· 启动仪式特约机构 ·</div>
@@ -441,14 +422,12 @@
 <script>
 import Swiper from 'swiper';
 import { Toast } from 'mint-ui';
-import people from './people.js';
 import active from './active.js';
 import singleradio from './singleradio';
 import checkradio from './checkradio';
 export default {
 	data () {
 		return {
-			people:people,
 			active:active,
 			radioSingle:false,
 			radiodata:'',
