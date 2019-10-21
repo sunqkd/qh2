@@ -49,28 +49,21 @@
 						<span>
 							<i></i>
 						</span>
-						<span>14:35-14:55</span>
-						<span>前海政策推介</span>
-					</li>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>14:55-15:05</span>
+						<span>14:35-14:40</span>
 						<span>嘉宾评委聘书颁发仪式</span>
 					</li>
 					<li>
 						<span>
 							<i></i>
 						</span>
-						<span>15:05-17:35</span>
-						<span>项目路演</span>
+						<span>14:40-17:40</span>
+						<span>项目路演(9个项目，每个项目15分钟路演，5分钟嘉宾点评)</span>
 					</li>
 					<li>
 						<span>
 							<i></i>
 						</span>
-						<span>17:35-18:00</span>
+						<span>17:40-18:00</span>
 						<span>自由交流</span>
 					</li>
 				</ul>
@@ -158,6 +151,67 @@
 					<li class="disc">公司致力于建设最大的大美业互联网创业、服务及资源平台，通过互联网云平台链接医美、生美的机构、人、产品和服务，专注为医美机构提供全方位一站式服务解决方案，做“互联网+大美业”生态链的缔造者。</li>
 					<li class="disc">云平台独有“5+1”模式：5指的是将新医美院务管理、渠道分销管理、互联网关系链营销、客户关系CRM、美业商城等5大系统全打通，1是指通过智能支付实时数据云端联动，使“大美业+互联网”完美落地。</li>
 					<li class="disc">云平台优势：专业落地实施顾问团队、海量美业精准客户资源、一站服务、 全生态链实力合作伙伴。渠道分销管理、美付通智能支付解决方案属公司在医美行业首家率先推出的服务，创新业务领先行业6-12个月。</li>
+				</ul>
+			</div>
+			<div class="roadProject">
+				<ul>
+					<li>用数字化技术来搭建牙科产业互联网+数字化临床应用+数字化制造全产业链平台</li>
+					<li class="disc">公司产品主要面向牙科行业，市场潜力巨大，前景广阔；</li>
+					<li class="disc">数字化技术在牙科行业的应用是牙科行业未来的发展方向，核心技术和设备一直被欧美极少数一二个国家所控制，我们是国内首家在牙科数字化技术和设备上超越欧美发达国家，同时，在临床应用和义齿加工端实现突破的团队，产品技术领先优势明显；</li>
+					<li class="disc">公司核心成员深耕医疗行业多年，具有很强的医疗行业资源整合能力；</li>
+					<li class="disc">未来十年将是牙科行业高速发展的十年，牙科行业将达到万亿级的产业规模，公司在数字化技术和设备方面的领先优势，以及在临床数字化技术和义齿技工端数字技术应用方面的技术积累，足以保障公司未来十年的快速发展。</li>
+				</ul>
+			</div>
+			<div class="roadProject">
+				<ul>
+					<li>多云安全融合智能应用交付专家</li>
+					<li class="disc">公司致力于通过云应用交付平台为整体解决方案，为行业企业客户提供有前瞻性、云演进性的专家级行业应用交付服务，迄今已为中国多家行业信息化领军企业提供整体交付方案和服务，以帮助中国企业提供全球化IT支持方案的领军企业为目标的专业信息化产品公司。</li>
+					<li class="disc">公司立足世界最前沿、最具前瞻性技术的本地化研发和服务，拥有的专业云应用交付产品、行业混合云交付平台、应用负载均衡、全局负载均衡、链路负载均衡产品、云负载均衡等一系列可以与国际同步的专业产品和解决方案。</li>
+					<li class="disc">鸬鹚云应用交付产品短短4年多时间，实现以下的突破</li>
+					<li class="disc noafter">
+						<div>
+							<span>1、</span>相关技术水平国内领先，并保持和国际理念同步。
+						</div>
+					</li>
+					<li class="disc noafter">
+					    <div>
+							<span>2、</span>成功交付100+以上客户（包括广东省高院、广东省教育厅江西省工信委等省级单位，中国机械设备工程有限公司等国家级企业以及广州番禺何贤医院、南昌第一人民医院等医疗教育机构等）
+						</div>
+					</li>
+					<li class="disc noafter">
+						<div>
+							<span>3、</span>2016-2019年连续三年广东省计算机用户推荐产品奖
+						</div>
+					</li>
+					<li class="disc noafter">
+						<div>
+							<span>4、</span>2018年中国云应用交付用户最值得信赖产品奖
+						</div>
+					</li>
+					<li class="disc noafter">
+						<div>
+							<span>5、</span>获得华为云等公有云认证，成为国内支持公有云和私有云最多的专业云应用交付器厂商
+						</div>
+					</li>
+					<li class="disc noafter">
+						<div>
+							<span>6、</span>广东省计算机用户协会副会长单位/前海云计算及人工智能产业联盟会长单位
+						</div>
+					</li>
+					<li class="disc noafter">
+						<div>
+							<span>7、</span>2019年团队项目通过阿里云AI赛道筛选
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="roadProject">
+				<ul>
+					<li>智能工业物联网SaaS</li>
+					<li class="disc">物联网是时代趋势，工业物联网是国家战略，前景广阔。</li>
+					<li class="disc">10年刻意训练思考力，5年构建模块化，积木式搭建软件系统能力。在标准化程度低、协议众多对接复杂的工业物联网场景下取得了较大突破。目前可对接主流的PLC设备和70%左右的工控设备。</li>
+					<li class="disc">基于模块化思想研发的自定义规则引擎、自定义报表、自定义设备工单等功能实现了用标准经的功能满足客户相对个性化的需求。</li>
+					<li class="disc">经过验证的高可用、高并发业务架构与底层基础数据计算服务，可靠支撑工业场景下海量数据的处理标准化可叠加的方法与流程可打造超高效率的团队(标准化、可叠加的思考力提升方法与流程，快速提升员工解决问题的能力;标准化、可叠加的积木搭建式系统开发方法(20+模块)，效率提升近10倍;标准化、可叠加的编码规范和代码质量检查体系保证代码质量)。</li>
 				</ul>
 			</div>
 			<div class="continue">
@@ -804,7 +858,7 @@ export default {
 						position:relative;
 						display:flex;
 						width:100%;
-						height:44px;
+						min-height:44px;
 						box-sizing: border-box;
 						span:nth-child(1){
 							width:16px;
@@ -829,12 +883,15 @@ export default {
 							margin-left:16px;
 							display:inline-block;
 							margin-top:2px;
+							white-space: nowrap;
 						}
 						span:nth-child(3){
+							display:inline-block;
+							width:calc(100% - 140px);
 							color:rgba(217,240,249,1);
 							font-size:14px;
 							margin-left:16px;
-							display:inline-block;
+							
 						}
 						&:after{
 							content:'';
@@ -896,6 +953,19 @@ export default {
 							display:block;
 							// width:20px;
 							margin-right: 8px;
+							line-height: 10px;
+						}
+					}
+					.noafter{
+						&::before{
+							content: '';
+							color:#62B2E8;
+							font-weight: bold;
+							font-size:20px;
+							display:block;
+							// width:20px;
+							margin-right: 8px;
+							margin-left:5px;
 							line-height: 10px;
 						}
 					}
